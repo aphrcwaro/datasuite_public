@@ -1,5 +1,5 @@
-$ReleaseVersion = "1.0.3"
-$BuildSourceVersion = "070fecb4b94af20d8653556075a4230aadf94484"
+$ReleaseVersion = "1.0.4"
+$BuildSourceVersion = "8a9556bdd0815000181bde992145372cc2794f0b"
 $BaseUrl = "https://github.com/aphrcwaro/datasuite_public/releases/download/$ReleaseVersion"
 $OutRoot = "versions/stable/win32/x64"
 
